@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Rotwild
 tagline:          ‘@rtwld’
 description:      ‘Pseudonymous academics. I like to test (and break) stuff, mostly ideas. #philosophy #hacking #science’
-url:              http://rtwld.github.io
-baseurl:          /
+url:              http://rtwld.github.io/blog
+baseurl:          http://rtwld.github.io/blog
 
 author:
   name:           ‘Rotwild’
