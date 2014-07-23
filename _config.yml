@@ -8,9 +8,11 @@ permalink:        pretty
 # Setup
 title:            Rotwild
 tagline:          ‘@rtwld’
-description:      ‘Pseudonymous academics. I like to test (and break) stuff, mostly ideas. #philosophy #hacking #science’
-url:              http://rtwld.github.io/blog
-baseurl:          http://rtwld.github.io/blog/
+description:      Pseudonymous academic. I like to test (and break) stuff, mostly ideas. #philosophy #hacking #science
+url:              http://rtwld.github.io/blog/
+baseurl:          /blog
+
+relative_permalinks: false
 
 author:
   name:           ‘Rotwild’
@@ -21,4 +23,4 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-github:		  https://github.com/rtwld
+github: 	https://github.com/rtwld
