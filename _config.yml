@@ -1,28 +1,27 @@
 # Dependencies
-markdown:         redcarpet
-pygments:         true
+markdown:       redcarpet
+pygments:       true
 
 # Permalinks
-permalink:        pretty
+permalink:      pretty
 
 # Setup
-title:            rotwild
-tagline:          rtwld
-description:      Pseudonymous academic. I like to test (and break) stuff, mostly ideas. #philosophy #hacking #science
-url:              http://rtwld.github.io/blog/
-baseurl:          /blog
+title:          rotwild
+tagline:        rtwld
+description:    "Pseudonymous academic. I like to test (and break) stuff, mostly ideas. #philosophy #hacking #science"
+url:            http://rtwld.github.io/blog/
+baseurl:        /blog
 
 relative_permalinks: false
 
 author:
-  name:           Rotwild
-  url:            https://twitter.com/rtwld
+  name:         Rotwild
+  url:          https://twitter.com/rtwld
 
-paginate:         5
+paginate:       5
 
 # Custom vars
-version:          2.1.0
+version:        2.1.0
+github:         https://github.com/rtwld
+twitter:        https://twitter.com/rtwld
 
-github: 	https://github.com/rtwld
-twitter:	https://twitter.com/rtwld
-		
