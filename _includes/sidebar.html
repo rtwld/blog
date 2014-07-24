@@ -26,10 +26,11 @@
         {% endif %}
       {% endfor %}
 
+      <a class="sidebar-nav-item" href="{{ site.twitter }}">Twitter</a>
       <a class="sidebar-nav-item" href="{{ site.github }}">GitHub</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+      <!-- <span class="sidebar-nav-item"></span> -->
     </nav>
 
-    <p>Made {{ site.time | date: '%Y' }} with <a href="http://jekyllrb.com/">Jekyll</a> and <3.</p>
+    <p>Content under {{ site.license }}.<br />Made with <a href="http://jekyllrb.com/">Jekyll</a> and <3.</p>
   </div>
 </div>
