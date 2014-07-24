@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Rotwild
-tagline:          ‘@rtwld’
+title:            rotwild
+tagline:          rtwld
 description:      Pseudonymous academic. I like to test (and break) stuff, mostly ideas. #philosophy #hacking #science
 url:              http://rtwld.github.io/blog/
 baseurl:          /blog
@@ -15,7 +15,7 @@ baseurl:          /blog
 relative_permalinks: false
 
 author:
-  name:           ‘Rotwild’
+  name:           Rotwild
   url:            https://twitter.com/rtwld
 
 paginate:         5
@@ -24,3 +24,5 @@ paginate:         5
 version:          2.1.0
 
 github: 	https://github.com/rtwld
+twitter:	https://twitter.com/rtwld
+		
